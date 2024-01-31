@@ -1,7 +1,7 @@
 # Predict-nationality-Based-on-name
 
   <p align="center">
-  <img width="500" height="500" src=https://github.com/NjoodJ/Predict-nationality-Based-on-name/assets/93571826/0d6ce2fd-02d0-48ed-83d3-7cab0a4fb18b>
+  <img width="400" height="400" src=https://github.com/NjoodJ/Predict-nationality-Based-on-name/assets/93571826/0d6ce2fd-02d0-48ed-83d3-7cab0a4fb18b>
 </p>
 This repository contains code for predicting the nationality of individuals based on their names using a Naive Bayes model. The goal of this project is to accurately classify names into different nationalities using the Naive Bayes algorithm.
 
